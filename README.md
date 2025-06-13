@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning ** Java full stack **
 
 - 🌱 I’m currently learning *Spring Boot*
-- ✨ Iam Working On Student_Cource 👩‍🎓 Management Using **SpringBoot**  With FrontEnd **RectJs** Project🧾
+- ✨ Iam Working On Student_Cource 👩‍🎓 Management Project🧾 Using **SpringBoot**  With FrontEnd **RectJs** 
 
 - 💬 
 
