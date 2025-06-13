@@ -5,10 +5,7 @@
 - 🔭 I’m currently learning ** Java full stack **
 
 - 🌱 I’m currently learning *Spring Boot*
-
-- 👯 
-
-- 🤝 
+- ✨ Iam Doing Student_Cource👩‍🎓 Project
 
 - 💬 
 
