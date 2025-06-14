@@ -27,6 +27,10 @@
   <img src="https://www.heatware.net/wp-content/uploads/spring-boot.png" alt="Spring Boot" width="100" />
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="Oracle Sql" width="100" />
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojithaAsha&show_icons=true&locale=en&layout=compact" alt="PoojithaAsha" /></p>
