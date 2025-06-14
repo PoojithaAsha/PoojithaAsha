@@ -27,7 +27,7 @@
   <img src="https://www.heatware.net/wp-content/uploads/spring-boot.png" alt="Spring Boot" width="100" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://www.oracle.com/database/technologies/appdev/sql.html " target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="Oracle Sql" width="80" />
 </a>
 
