@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="Oracle Sql" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"alt="Oracle Sql" width="80" />
 </a>
 
 </p>
