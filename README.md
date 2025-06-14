@@ -26,7 +26,7 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank">
   <img src="https://www.heatware.net/wp-content/uploads/spring-boot.png" alt="Spring Boot" width="100" />
 </a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle SQl" width="40" height="40"/> " alt="javascript" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PoojithaAsha&show_icons=true&locale=en&layout=compact" alt="PoojithaAsha" /></p>
