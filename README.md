@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate  Java fullstack developer from India</h3>
 
 
-- 🔭 I’m currently learning ** Java full stack **
+- 🔭 I’m currently learning  **Java full stack**
 
 - 🌱 I’m currently learning **Spring Boot**
 - ✨ Iam Working On Student_Cource 👩‍🎓 Management Project🧾 Using **SpringBoot**  With FrontEnd **RectJs** 
