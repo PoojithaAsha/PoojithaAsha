@@ -5,9 +5,9 @@
 - 🔭 I’m currently learning  **Java full stack**
 
 - 🌱 I’m currently learning **Spring Boot**
-- ✨ Iam Working On Student_Cource 👩‍🎓 Management Project🧾 Using **SpringBoot**  With FrontEnd **RectJs** 
+- ✨ I'm Working On Student_Cource 👩‍🎓 Management Project🧾 Using **SpringBoot**  With FrontEnd **RectJs** 
 
-- 💬 
+- 💬 I'm Very Good At **CORE JAVA**
 
 - 📫 How to reach me *ashapoojitha@gmail.com*
 
