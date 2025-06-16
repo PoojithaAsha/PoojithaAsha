@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Poojitha Asha&show_icons=true&locale=en" alt="poojitha asha" /></p>
 <br>
-<h2 align="left">Hi 👋! My name is Poojitha Asha and I'm a Java developer, from hyderabad</h2>
+<h2 align="left">Hi 👋! My name is Poojitha Asha and I'm a Java full stack developer, from hyderabad</h2>
 
 ###
 
