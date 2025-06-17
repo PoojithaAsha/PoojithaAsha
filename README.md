@@ -9,7 +9,7 @@
 
 - 💬 I'm Very Good At **CORE JAVA**
 
-- 📫 How to reach me **ashapoojitha@gmail.com**
+- 📫 Reach me via **ashapoojitha@gmail.com**
 
 - ⚡ Fun fact *I think I am Good and sharp girl*
 
