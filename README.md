@@ -41,7 +41,7 @@
 
 <p>&nbsp;</p>
 <br>
-<h2 align="left">Hi 👋! My Name is Poojitha Asha and I'm a Java full stack developer, from Hyderabad</h2>
+<h2 align="left">Hi 👋! My Name is Poojitha Asha and I'm a Java full stack developer, from Hyderabad.</h2>
 
 ###
 
