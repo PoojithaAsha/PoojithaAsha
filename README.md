@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact *I think I am Good and sharp girl*
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me by:</h3>
 <p align="left">
 
 <div>
