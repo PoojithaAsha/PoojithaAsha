@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently pursuing  **Java full stack**
-
 - 🌱 I’m currently learning **Spring Boot**
 - ✨ I'm Working On Student_Course 👩‍🎓 Management Project🧾 Using **SpringBoot**  With FrontEnd **RectJs** 
 
